@@ -4,6 +4,7 @@ import Sidebar from "./components/Sidebar";
 import Hero from "./components/Hero";
 import { CardContainer } from "./components/CardContainer";
 import "./styles/style.css";
+import "./App.css";
 import Footer from "./components/Footer";
 
 export default function App() {
